@@ -1,3 +1,9 @@
 George V (1865-1936) - Fondateur de la dynastie Windsor en 1917
+<<<<<<< HEAD
 George VI (1895-1952) - Duc d'York puis roi de 1936 à 1952
 Elizabeth Bowes-Lyon (1900-2002)
+=======
+Mary de teek femme de George V
+>>>>>>> mary-de-teek
+Elizabeth II (1926-2022) - Reine du Royaume-Uni
+Philip Mountbatten (1921-2021) - Prince de Grèce et du Danemark
